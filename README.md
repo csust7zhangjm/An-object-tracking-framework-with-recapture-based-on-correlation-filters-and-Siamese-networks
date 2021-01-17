@@ -1,4 +1,4 @@
-# An-object-tracking-framework-with-recapture-based-on-correlation-filters-and-Siamese-networks-
+# An-object-tracking-framework-with-recapture-based-on-correlation-filters-and-Siamese-networks
 
 Jianming Zhang, Juan Sun, Jin Wang, Zongping Li
 
