@@ -2,7 +2,7 @@
 
 Jianming Zhang, Juan Sun, Jin Wang, Zongping Li
 
-Submitted to *Visual Computer*.
+Submitted to *Computers and Electrical Engineering*.
 
 If the paper is accepted, we will publish our detailed code and data.
 
